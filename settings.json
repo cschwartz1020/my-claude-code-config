@@ -110,5 +110,11 @@
       "WebFetch(domain:gofastmcp.com)",
       "WebFetch(domain:docs.cloud.google.com)"
     ]
-  }
+  },
+  "statusLine": {
+    "type": "command",
+    "command": "statusline-command.sh"
+  },
+  "effortLevel": "high",
+  "voiceEnabled": true
 }
